@@ -58,6 +58,7 @@
 			);
 			name = Products;
 			sourceTree = "<group>";
+			usesTabs = 0;
 		};
 		EBA21B72203DBF33008AF1FD /* aaa */ = {
 			isa = PBXGroup;
