@@ -45,7 +45,7 @@
 		EBA21B67203DBF33008AF1FD = {
 			isa = PBXGroup;
 			children = (
-				EBA21B72203DBF33008AF1FD /* aaa */,
+				EBA21B72203DBF33008AF1FD /* NewsReader */,
 				EBA21B71203DBF33008AF1FD /* Products */,
 				EBB423C92045BA85003DDA7C /* Frameworks */,
 			);
@@ -60,7 +60,7 @@
 			sourceTree = "<group>";
 			usesTabs = 0;
 		};
-		EBA21B72203DBF33008AF1FD /* aaa */ = {
+		EBA21B72203DBF33008AF1FD /* NewsReader */ = {
 			isa = PBXGroup;
 			children = (
 				EBA21B73203DBF33008AF1FD /* AppDelegate.swift */,
@@ -72,7 +72,7 @@
 				EBA21B7C203DBF33008AF1FD /* LaunchScreen.storyboard */,
 				EBA21B7F203DBF33008AF1FD /* Info.plist */,
 			);
-			path = aaa;
+			path = NewsReader;
 			sourceTree = "<group>";
 		};
 		EBB423C92045BA85003DDA7C /* Frameworks */ = {
